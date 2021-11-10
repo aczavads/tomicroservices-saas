@@ -1,4 +1,4 @@
-package br.otimizes.tomicroservices.tomicroservicessaasback;
+package br.otimizes.tomicroservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
