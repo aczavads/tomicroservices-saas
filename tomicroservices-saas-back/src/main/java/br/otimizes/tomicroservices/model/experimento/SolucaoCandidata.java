@@ -1,4 +1,4 @@
-package br.otimizes.tomicroservices.usuário;
+package br.otimizes.tomicroservices.model.experimento;
 
 import javax.persistence.Entity;
 
@@ -7,14 +7,10 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-
 @Entity
 @NoArgsConstructor
 @Getter
 @Setter
-public class Usuario extends BaseEntity {
-	private String email;
-	private String senhaCriptografada;
-	private String nome;		
-
+public class SolucaoCandidata extends BaseEntity {
+	private String nomeDoArquivoDeSaida;
 }
