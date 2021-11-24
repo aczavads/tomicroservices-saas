@@ -29,7 +29,7 @@ import br.pucrio.inf.les.opus.tomicroservices.optimization.algorithm.nsgaIII.toM
 public class GerenciadorExecutarExperimento {
 
 	@PostMapping
-	public void executar(@RequestBody ExperimentRequest request) {
+	public String executar(@RequestBody ExperimentRequest request) {
 		System.out.println(request);
 		
 		String acceptList = "/home/arthur/Documents/doutorado/tomsc/accept.list";
@@ -84,7 +84,7 @@ public class GerenciadorExecutarExperimento {
 			// numberOfMicroservices,
 			// random, file, otherMetrics);
 		}
-
+		return "Opa! :D";
 	}
 
 }

@@ -1,18 +1,38 @@
-import React from "react";
+import React, { useState } from "react";
 import { useForm } from "react-hook-form";
 import { yupResolver } from '@hookform/resolvers/yup';
 import * as yup from "yup";
+import api from '../services/api';
 
 const schema = yup.object({
     firstName: yup.string().required(),
     age: yup.number().positive().integer().required(),
 }).required();
 
+
 export default function Login() {
+    const [executing, setExecuting] = useState(false);
     const { register, handleSubmit, formState: { errors } } = useForm({
         resolver: yupResolver(schema)
     });
+
     const onSubmit = data => console.log(data);
+
+    const executarExperimento = async () => {
+        //alert("Opa, executando!!!");
+        if (executing) {
+            alert("Opa, espera aí!");
+        }
+        setExecuting(true);
+        try {
+            const postRequest = await api.post("/api/experimentos", { numberOfMicroservices: 3 });
+            console.log(postRequest.data);
+        } catch (error) {
+            console.log(error);
+        }
+        setExecuting(false);
+    }
+
 
     return (
 
@@ -35,6 +55,10 @@ export default function Login() {
 
             <div class="form-row">
                 <button class="btn btn-primary" type="submit">Submit form</button>
+            </div>
+            <br />
+            <div class="form-row">
+                <button class="btn btn-primary" type="submit" onClick={executarExperimento}>Executar Experimento</button>
             </div>
         </form>
     );
