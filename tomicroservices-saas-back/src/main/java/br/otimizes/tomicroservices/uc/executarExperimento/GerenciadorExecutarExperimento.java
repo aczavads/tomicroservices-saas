@@ -26,7 +26,7 @@ import br.pucrio.inf.les.opus.tomicroservices.optimization.algorithm.nsgaIII.toM
 
 @RestController
 @RequestMapping("/api/experimentos")
-public class ExecutarExperimentoController {
+public class GerenciadorExecutarExperimento {
 
 	@PostMapping
 	public void executar(@RequestBody ExperimentRequest request) {
