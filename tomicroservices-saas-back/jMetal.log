@@ -1,0 +1,2564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-23T13:49:51.971774275Z</date>
+  <millis>1637675391971</millis>
+  <nanos>774275</nanos>
+  <sequence>5</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.JMetalLogger</class>
+  <method>configureLoggers</method>
+  <thread>44</thread>
+  <message>Loggers configured with null</message>
+</record>
+<record>
+  <date>2021-11-23T13:49:51.977444787Z</date>
+  <millis>1637675391977</millis>
+  <nanos>444787</nanos>
+  <sequence>6</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>44</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:49:52.834482085Z</date>
+  <millis>1637675392834</millis>
+  <nanos>482085</nanos>
+  <sequence>7</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>44</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:49:53.624695670Z</date>
+  <millis>1637675393624</millis>
+  <nanos>695670</nanos>
+  <sequence>8</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>44</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:49:54.427570858Z</date>
+  <millis>1637675394427</millis>
+  <nanos>570858</nanos>
+  <sequence>9</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>44</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:49:55.219855262Z</date>
+  <millis>1637675395219</millis>
+  <nanos>855262</nanos>
+  <sequence>10</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>44</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:49:55.993605981Z</date>
+  <millis>1637675395993</millis>
+  <nanos>605981</nanos>
+  <sequence>11</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>44</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:49:56.774038159Z</date>
+  <millis>1637675396774</millis>
+  <nanos>38159</nanos>
+  <sequence>12</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>44</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:50:09.755893577Z</date>
+  <millis>1637675409755</millis>
+  <nanos>893577</nanos>
+  <sequence>13</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>52</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:50:10.540670658Z</date>
+  <millis>1637675410540</millis>
+  <nanos>670658</nanos>
+  <sequence>14</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>52</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:50:11.340794714Z</date>
+  <millis>1637675411340</millis>
+  <nanos>794714</nanos>
+  <sequence>15</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>52</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:50:12.112791115Z</date>
+  <millis>1637675412112</millis>
+  <nanos>791115</nanos>
+  <sequence>16</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>52</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:50:12.889773041Z</date>
+  <millis>1637675412889</millis>
+  <nanos>773041</nanos>
+  <sequence>17</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>52</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:50:13.683938532Z</date>
+  <millis>1637675413683</millis>
+  <nanos>938532</nanos>
+  <sequence>18</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>52</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:50:14.462741415Z</date>
+  <millis>1637675414462</millis>
+  <nanos>741415</nanos>
+  <sequence>19</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>52</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.207950954Z</date>
+  <millis>1637675617207</millis>
+  <nanos>950954</nanos>
+  <sequence>20</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>35</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.208708931Z</date>
+  <millis>1637675617208</millis>
+  <nanos>708931</nanos>
+  <sequence>21</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>35</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.209804109Z</date>
+  <millis>1637675617209</millis>
+  <nanos>804109</nanos>
+  <sequence>22</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>Destroying Spring FrameworkServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.212042475Z</date>
+  <millis>1637675617212</millis>
+  <nanos>42475</nanos>
+  <sequence>23</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>35</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.212924578Z</date>
+  <millis>1637675617212</millis>
+  <nanos>924578</nanos>
+  <sequence>24</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>35</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.214027700Z</date>
+  <millis>1637675617214</millis>
+  <nanos>27700</nanos>
+  <sequence>25</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>35</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.216061899Z</date>
+  <millis>1637675617216</millis>
+  <nanos>61899</nanos>
+  <sequence>26</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>35</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.532543572Z</date>
+  <millis>1637675617532</millis>
+  <nanos>543572</nanos>
+  <sequence>27</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>64</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.533166313Z</date>
+  <millis>1637675617533</millis>
+  <nanos>166313</nanos>
+  <sequence>28</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>64</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.533633069Z</date>
+  <millis>1637675617533</millis>
+  <nanos>633069</nanos>
+  <sequence>29</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>64</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.541946779Z</date>
+  <millis>1637675617541</millis>
+  <nanos>946779</nanos>
+  <sequence>30</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>64</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:53:37.915254956Z</date>
+  <millis>1637675617915</millis>
+  <nanos>254956</nanos>
+  <sequence>31</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>64</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.428801379Z</date>
+  <millis>1637675642428</millis>
+  <nanos>801379</nanos>
+  <sequence>32</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>61</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.429371170Z</date>
+  <millis>1637675642429</millis>
+  <nanos>371170</nanos>
+  <sequence>33</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>61</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.431400620Z</date>
+  <millis>1637675642431</millis>
+  <nanos>400620</nanos>
+  <sequence>34</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>61</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.432283325Z</date>
+  <millis>1637675642432</millis>
+  <nanos>283325</nanos>
+  <sequence>35</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>61</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-2 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.433052675Z</date>
+  <millis>1637675642433</millis>
+  <nanos>52675</nanos>
+  <sequence>36</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>61</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.433876087Z</date>
+  <millis>1637675642433</millis>
+  <nanos>876087</nanos>
+  <sequence>37</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>61</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.716496278Z</date>
+  <millis>1637675642716</millis>
+  <nanos>496278</nanos>
+  <sequence>38</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>78</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.716890706Z</date>
+  <millis>1637675642716</millis>
+  <nanos>890706</nanos>
+  <sequence>39</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>78</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.717112938Z</date>
+  <millis>1637675642717</millis>
+  <nanos>112938</nanos>
+  <sequence>40</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>78</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:02.725196523Z</date>
+  <millis>1637675642725</millis>
+  <nanos>196523</nanos>
+  <sequence>41</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>78</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:54:03.052469135Z</date>
+  <millis>1637675643052</millis>
+  <nanos>469135</nanos>
+  <sequence>42</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>78</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.048561227Z</date>
+  <millis>1637675814048</millis>
+  <nanos>561227</nanos>
+  <sequence>43</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>75</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.048889259Z</date>
+  <millis>1637675814048</millis>
+  <nanos>889259</nanos>
+  <sequence>44</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>75</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.050987833Z</date>
+  <millis>1637675814050</millis>
+  <nanos>987833</nanos>
+  <sequence>45</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>75</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.051553487Z</date>
+  <millis>1637675814051</millis>
+  <nanos>553487</nanos>
+  <sequence>46</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>75</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-3 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.052169957Z</date>
+  <millis>1637675814052</millis>
+  <nanos>169957</nanos>
+  <sequence>47</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>75</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.052832275Z</date>
+  <millis>1637675814052</millis>
+  <nanos>832275</nanos>
+  <sequence>48</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>75</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.299557318Z</date>
+  <millis>1637675814299</millis>
+  <nanos>557318</nanos>
+  <sequence>49</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>92</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.300067968Z</date>
+  <millis>1637675814300</millis>
+  <nanos>67968</nanos>
+  <sequence>50</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>92</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.300448370Z</date>
+  <millis>1637675814300</millis>
+  <nanos>448370</nanos>
+  <sequence>51</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>92</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.308389995Z</date>
+  <millis>1637675814308</millis>
+  <nanos>389995</nanos>
+  <sequence>52</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>92</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:56:54.503116930Z</date>
+  <millis>1637675814503</millis>
+  <nanos>116930</nanos>
+  <sequence>53</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>92</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:14.163776635Z</date>
+  <millis>1637675834163</millis>
+  <nanos>776635</nanos>
+  <sequence>54</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>102</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:14.164297844Z</date>
+  <millis>1637675834164</millis>
+  <nanos>297844</nanos>
+  <sequence>55</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>102</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:14.164576694Z</date>
+  <millis>1637675834164</millis>
+  <nanos>576694</nanos>
+  <sequence>56</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>102</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:14.175532944Z</date>
+  <millis>1637675834175</millis>
+  <nanos>532944</nanos>
+  <sequence>57</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>102</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:14.484571815Z</date>
+  <millis>1637675834484</millis>
+  <nanos>571815</nanos>
+  <sequence>58</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>102</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.393554425Z</date>
+  <millis>1637675855393</millis>
+  <nanos>554425</nanos>
+  <sequence>59</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>89</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.394151528Z</date>
+  <millis>1637675855394</millis>
+  <nanos>151528</nanos>
+  <sequence>60</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>89</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.396375590Z</date>
+  <millis>1637675855396</millis>
+  <nanos>375590</nanos>
+  <sequence>61</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>89</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.397135944Z</date>
+  <millis>1637675855397</millis>
+  <nanos>135944</nanos>
+  <sequence>62</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>89</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-5 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.397846363Z</date>
+  <millis>1637675855397</millis>
+  <nanos>846363</nanos>
+  <sequence>63</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>89</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.398484594Z</date>
+  <millis>1637675855398</millis>
+  <nanos>484594</nanos>
+  <sequence>64</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>89</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.654802649Z</date>
+  <millis>1637675855654</millis>
+  <nanos>802649</nanos>
+  <sequence>65</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>116</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.655156120Z</date>
+  <millis>1637675855655</millis>
+  <nanos>156120</nanos>
+  <sequence>66</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>116</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.655323828Z</date>
+  <millis>1637675855655</millis>
+  <nanos>323828</nanos>
+  <sequence>67</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>116</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.662895553Z</date>
+  <millis>1637675855662</millis>
+  <nanos>895553</nanos>
+  <sequence>68</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>116</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:57:35.972946171Z</date>
+  <millis>1637675855972</millis>
+  <nanos>946171</nanos>
+  <sequence>69</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>116</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.514785358Z</date>
+  <millis>1637675887514</millis>
+  <nanos>785358</nanos>
+  <sequence>70</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>113</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.516090455Z</date>
+  <millis>1637675887516</millis>
+  <nanos>90455</nanos>
+  <sequence>71</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>113</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.519231540Z</date>
+  <millis>1637675887519</millis>
+  <nanos>231540</nanos>
+  <sequence>72</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>113</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.520411791Z</date>
+  <millis>1637675887520</millis>
+  <nanos>411791</nanos>
+  <sequence>73</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>113</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-6 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.521328782Z</date>
+  <millis>1637675887521</millis>
+  <nanos>328782</nanos>
+  <sequence>74</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>113</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.522195728Z</date>
+  <millis>1637675887522</millis>
+  <nanos>195728</nanos>
+  <sequence>75</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>113</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.762105050Z</date>
+  <millis>1637675887762</millis>
+  <nanos>105050</nanos>
+  <sequence>76</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>130</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.762500581Z</date>
+  <millis>1637675887762</millis>
+  <nanos>500581</nanos>
+  <sequence>77</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>130</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.762682666Z</date>
+  <millis>1637675887762</millis>
+  <nanos>682666</nanos>
+  <sequence>78</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>130</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:07.770376996Z</date>
+  <millis>1637675887770</millis>
+  <nanos>376996</nanos>
+  <sequence>79</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>130</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:08.079906427Z</date>
+  <millis>1637675888079</millis>
+  <nanos>906427</nanos>
+  <sequence>80</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>130</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.484039459Z</date>
+  <millis>1637675889484</millis>
+  <nanos>39459</nanos>
+  <sequence>81</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>127</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.484831813Z</date>
+  <millis>1637675889484</millis>
+  <nanos>831813</nanos>
+  <sequence>82</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>127</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.486859764Z</date>
+  <millis>1637675889486</millis>
+  <nanos>859764</nanos>
+  <sequence>83</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>127</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.487767928Z</date>
+  <millis>1637675889487</millis>
+  <nanos>767928</nanos>
+  <sequence>84</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>127</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-7 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.488164571Z</date>
+  <millis>1637675889488</millis>
+  <nanos>164571</nanos>
+  <sequence>85</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>127</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-7 connection adder] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:460)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.488760253Z</date>
+  <millis>1637675889488</millis>
+  <nanos>760253</nanos>
+  <sequence>86</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>127</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.489412100Z</date>
+  <millis>1637675889489</millis>
+  <nanos>412100</nanos>
+  <sequence>87</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>127</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.752880557Z</date>
+  <millis>1637675889752</millis>
+  <nanos>880557</nanos>
+  <sequence>88</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>144</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.753223458Z</date>
+  <millis>1637675889753</millis>
+  <nanos>223458</nanos>
+  <sequence>89</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>144</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.753410583Z</date>
+  <millis>1637675889753</millis>
+  <nanos>410583</nanos>
+  <sequence>90</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>144</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:09.761313669Z</date>
+  <millis>1637675889761</millis>
+  <nanos>313669</nanos>
+  <sequence>91</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>144</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:10.064392175Z</date>
+  <millis>1637675890064</millis>
+  <nanos>392175</nanos>
+  <sequence>92</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>144</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.489806666Z</date>
+  <millis>1637675894489</millis>
+  <nanos>806666</nanos>
+  <sequence>93</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>141</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.490265657Z</date>
+  <millis>1637675894490</millis>
+  <nanos>265657</nanos>
+  <sequence>94</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>141</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.491706413Z</date>
+  <millis>1637675894491</millis>
+  <nanos>706413</nanos>
+  <sequence>95</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>141</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.492325449Z</date>
+  <millis>1637675894492</millis>
+  <nanos>325449</nanos>
+  <sequence>96</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>141</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-8 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.492796764Z</date>
+  <millis>1637675894492</millis>
+  <nanos>796764</nanos>
+  <sequence>97</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>141</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-8 connection adder] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:460)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.493402013Z</date>
+  <millis>1637675894493</millis>
+  <nanos>402013</nanos>
+  <sequence>98</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>141</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.494091993Z</date>
+  <millis>1637675894494</millis>
+  <nanos>91993</nanos>
+  <sequence>99</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>141</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.736829102Z</date>
+  <millis>1637675894736</millis>
+  <nanos>829102</nanos>
+  <sequence>100</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>158</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.737215566Z</date>
+  <millis>1637675894737</millis>
+  <nanos>215566</nanos>
+  <sequence>101</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>158</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.737382112Z</date>
+  <millis>1637675894737</millis>
+  <nanos>382112</nanos>
+  <sequence>102</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>158</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:14.744978015Z</date>
+  <millis>1637675894744</millis>
+  <nanos>978015</nanos>
+  <sequence>103</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>158</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:15.041620619Z</date>
+  <millis>1637675895041</millis>
+  <nanos>620619</nanos>
+  <sequence>104</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>158</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:58:41.975985321Z</date>
+  <millis>1637675921975</millis>
+  <nanos>985321</nanos>
+  <sequence>105</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>169</thread>
+  <message>Initializing Spring DispatcherServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:23.793190945Z</date>
+  <millis>1637675963793</millis>
+  <nanos>190945</nanos>
+  <sequence>106</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>155</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:23.793798910Z</date>
+  <millis>1637675963793</millis>
+  <nanos>798910</nanos>
+  <sequence>107</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>155</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:23.794397887Z</date>
+  <millis>1637675963794</millis>
+  <nanos>397887</nanos>
+  <sequence>108</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>155</thread>
+  <message>Destroying Spring FrameworkServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:23.796208947Z</date>
+  <millis>1637675963796</millis>
+  <nanos>208947</nanos>
+  <sequence>109</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>155</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:23.796789669Z</date>
+  <millis>1637675963796</millis>
+  <nanos>789669</nanos>
+  <sequence>110</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>155</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-9 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:23.797346136Z</date>
+  <millis>1637675963797</millis>
+  <nanos>346136</nanos>
+  <sequence>111</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>155</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:23.799175981Z</date>
+  <millis>1637675963799</millis>
+  <nanos>175981</nanos>
+  <sequence>112</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>155</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:24.037785231Z</date>
+  <millis>1637675964037</millis>
+  <nanos>785231</nanos>
+  <sequence>113</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>174</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:24.038115509Z</date>
+  <millis>1637675964038</millis>
+  <nanos>115509</nanos>
+  <sequence>114</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>174</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:24.038254312Z</date>
+  <millis>1637675964038</millis>
+  <nanos>254312</nanos>
+  <sequence>115</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>174</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:24.045628056Z</date>
+  <millis>1637675964045</millis>
+  <nanos>628056</nanos>
+  <sequence>116</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>174</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:24.345365835Z</date>
+  <millis>1637675964345</millis>
+  <nanos>365835</nanos>
+  <sequence>117</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>174</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:25.536727613Z</date>
+  <millis>1637675965536</millis>
+  <nanos>727613</nanos>
+  <sequence>118</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>185</thread>
+  <message>Initializing Spring DispatcherServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:25.546308929Z</date>
+  <millis>1637675965546</millis>
+  <nanos>308929</nanos>
+  <sequence>119</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>185</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:26.382252368Z</date>
+  <millis>1637675966382</millis>
+  <nanos>252368</nanos>
+  <sequence>120</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>185</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:27.184286393Z</date>
+  <millis>1637675967184</millis>
+  <nanos>286393</nanos>
+  <sequence>121</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>185</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:27.999460775Z</date>
+  <millis>1637675967999</millis>
+  <nanos>460775</nanos>
+  <sequence>122</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>185</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:28.796259453Z</date>
+  <millis>1637675968796</millis>
+  <nanos>259453</nanos>
+  <sequence>123</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>185</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:29.624820614Z</date>
+  <millis>1637675969624</millis>
+  <nanos>820614</nanos>
+  <sequence>124</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>185</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:30.404038049Z</date>
+  <millis>1637675970404</millis>
+  <nanos>38049</nanos>
+  <sequence>125</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>185</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:54.897403474Z</date>
+  <millis>1637675994897</millis>
+  <nanos>403474</nanos>
+  <sequence>126</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>171</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:54.898152546Z</date>
+  <millis>1637675994898</millis>
+  <nanos>152546</nanos>
+  <sequence>127</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>171</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:54.898899375Z</date>
+  <millis>1637675994898</millis>
+  <nanos>899375</nanos>
+  <sequence>128</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>171</thread>
+  <message>Destroying Spring FrameworkServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:54.899956563Z</date>
+  <millis>1637675994899</millis>
+  <nanos>956563</nanos>
+  <sequence>129</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>171</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:54.900597981Z</date>
+  <millis>1637675994900</millis>
+  <nanos>597981</nanos>
+  <sequence>130</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>171</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-10 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:54.901038157Z</date>
+  <millis>1637675994901</millis>
+  <nanos>38157</nanos>
+  <sequence>131</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>171</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:54.901845881Z</date>
+  <millis>1637675994901</millis>
+  <nanos>845881</nanos>
+  <sequence>132</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>171</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:55.167601631Z</date>
+  <millis>1637675995167</millis>
+  <nanos>601631</nanos>
+  <sequence>133</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>196</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:55.167886291Z</date>
+  <millis>1637675995167</millis>
+  <nanos>886291</nanos>
+  <sequence>134</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>196</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:55.168021498Z</date>
+  <millis>1637675995168</millis>
+  <nanos>21498</nanos>
+  <sequence>135</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>196</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:55.175684431Z</date>
+  <millis>1637675995175</millis>
+  <nanos>684431</nanos>
+  <sequence>136</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>196</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:55.467489295Z</date>
+  <millis>1637675995467</millis>
+  <nanos>489295</nanos>
+  <sequence>137</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>196</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:57.727890455Z</date>
+  <millis>1637675997727</millis>
+  <nanos>890455</nanos>
+  <sequence>138</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>207</thread>
+  <message>Initializing Spring DispatcherServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:57.734592313Z</date>
+  <millis>1637675997734</millis>
+  <nanos>592313</nanos>
+  <sequence>139</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>207</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:58.562643538Z</date>
+  <millis>1637675998562</millis>
+  <nanos>643538</nanos>
+  <sequence>140</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>207</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T13:59:59.376521938Z</date>
+  <millis>1637675999376</millis>
+  <nanos>521938</nanos>
+  <sequence>141</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>207</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:00.209265931Z</date>
+  <millis>1637676000209</millis>
+  <nanos>265931</nanos>
+  <sequence>142</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>207</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:01.001739724Z</date>
+  <millis>1637676001001</millis>
+  <nanos>739724</nanos>
+  <sequence>143</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>207</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:01.812081255Z</date>
+  <millis>1637676001812</millis>
+  <nanos>81255</nanos>
+  <sequence>144</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>207</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:02.592629203Z</date>
+  <millis>1637676002592</millis>
+  <nanos>629203</nanos>
+  <sequence>145</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>207</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:33.189912296Z</date>
+  <millis>1637676033189</millis>
+  <nanos>912296</nanos>
+  <sequence>146</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>215</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:33.982304889Z</date>
+  <millis>1637676033982</millis>
+  <nanos>304889</nanos>
+  <sequence>147</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>215</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:34.764872132Z</date>
+  <millis>1637676034764</millis>
+  <nanos>872132</nanos>
+  <sequence>148</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>215</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:35.577953115Z</date>
+  <millis>1637676035577</millis>
+  <nanos>953115</nanos>
+  <sequence>149</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>215</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:36.390739361Z</date>
+  <millis>1637676036390</millis>
+  <nanos>739361</nanos>
+  <sequence>150</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>215</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:37.182611365Z</date>
+  <millis>1637676037182</millis>
+  <nanos>611365</nanos>
+  <sequence>151</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>215</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:00:37.969087202Z</date>
+  <millis>1637676037969</millis>
+  <nanos>87202</nanos>
+  <sequence>152</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>215</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.374257151Z</date>
+  <millis>1637676100374</millis>
+  <nanos>257151</nanos>
+  <sequence>153</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>193</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.374733546Z</date>
+  <millis>1637676100374</millis>
+  <nanos>733546</nanos>
+  <sequence>154</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>193</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.375349035Z</date>
+  <millis>1637676100375</millis>
+  <nanos>349035</nanos>
+  <sequence>155</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>193</thread>
+  <message>Destroying Spring FrameworkServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.377502566Z</date>
+  <millis>1637676100377</millis>
+  <nanos>502566</nanos>
+  <sequence>156</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>193</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.378128385Z</date>
+  <millis>1637676100378</millis>
+  <nanos>128385</nanos>
+  <sequence>157</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>193</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-11 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.378710912Z</date>
+  <millis>1637676100378</millis>
+  <nanos>710912</nanos>
+  <sequence>158</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>193</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.379722333Z</date>
+  <millis>1637676100379</millis>
+  <nanos>722333</nanos>
+  <sequence>159</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>193</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.630573184Z</date>
+  <millis>1637676100630</millis>
+  <nanos>573184</nanos>
+  <sequence>160</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>227</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.630956603Z</date>
+  <millis>1637676100630</millis>
+  <nanos>956603</nanos>
+  <sequence>161</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>227</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.631133940Z</date>
+  <millis>1637676100631</millis>
+  <nanos>133940</nanos>
+  <sequence>162</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>227</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.639350268Z</date>
+  <millis>1637676100639</millis>
+  <nanos>350268</nanos>
+  <sequence>163</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>227</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:40.944916838Z</date>
+  <millis>1637676100944</millis>
+  <nanos>916838</nanos>
+  <sequence>164</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>227</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:45.895721427Z</date>
+  <millis>1637676105895</millis>
+  <nanos>721427</nanos>
+  <sequence>165</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>238</thread>
+  <message>Initializing Spring DispatcherServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:45.903563784Z</date>
+  <millis>1637676105903</millis>
+  <nanos>563784</nanos>
+  <sequence>166</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>238</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:46.789988272Z</date>
+  <millis>1637676106789</millis>
+  <nanos>988272</nanos>
+  <sequence>167</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>238</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:47.595428891Z</date>
+  <millis>1637676107595</millis>
+  <nanos>428891</nanos>
+  <sequence>168</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>238</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:48.410856365Z</date>
+  <millis>1637676108410</millis>
+  <nanos>856365</nanos>
+  <sequence>169</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>238</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:49.227511883Z</date>
+  <millis>1637676109227</millis>
+  <nanos>511883</nanos>
+  <sequence>170</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>238</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:50.038958889Z</date>
+  <millis>1637676110038</millis>
+  <nanos>958889</nanos>
+  <sequence>171</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>238</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:01:50.817670131Z</date>
+  <millis>1637676110817</millis>
+  <nanos>670131</nanos>
+  <sequence>172</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>238</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.490543928Z</date>
+  <millis>1637676141490</millis>
+  <nanos>543928</nanos>
+  <sequence>173</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>224</thread>
+  <message>Pausing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.490980989Z</date>
+  <millis>1637676141490</millis>
+  <nanos>980989</nanos>
+  <sequence>174</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>224</thread>
+  <message>Stopping service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.491433659Z</date>
+  <millis>1637676141491</millis>
+  <nanos>433659</nanos>
+  <sequence>175</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>224</thread>
+  <message>Destroying Spring FrameworkServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.493517307Z</date>
+  <millis>1637676141493</millis>
+  <nanos>517307</nanos>
+  <sequence>176</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>224</thread>
+  <message>The web application [ROOT] appears to have started a thread named [MVStore background writer nio:/home/arthur/tomicroservices-saas.mv.db] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.Object.wait(Native Method)
+ app//org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3283)</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.494200735Z</date>
+  <millis>1637676141494</millis>
+  <nanos>200735</nanos>
+  <sequence>177</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>224</thread>
+  <message>The web application [ROOT] appears to have started a thread named [HikariPool-12 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@16.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@16.0.2/java.lang.Thread.run(Thread.java:831)</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.494854528Z</date>
+  <millis>1637676141494</millis>
+  <nanos>854528</nanos>
+  <sequence>178</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>224</thread>
+  <message>Stopping ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.495910914Z</date>
+  <millis>1637676141495</millis>
+  <nanos>910914</nanos>
+  <sequence>179</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>224</thread>
+  <message>Destroying ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.742698761Z</date>
+  <millis>1637676141742</millis>
+  <nanos>698761</nanos>
+  <sequence>180</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>249</thread>
+  <message>Initializing ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.742984854Z</date>
+  <millis>1637676141742</millis>
+  <nanos>984854</nanos>
+  <sequence>181</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>249</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.743116955Z</date>
+  <millis>1637676141743</millis>
+  <nanos>116955</nanos>
+  <sequence>182</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>249</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/9.0.54]</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:21.750751709Z</date>
+  <millis>1637676141750</millis>
+  <nanos>751709</nanos>
+  <sequence>183</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>249</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:22.039727282Z</date>
+  <millis>1637676142039</millis>
+  <nanos>727282</nanos>
+  <sequence>184</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>249</thread>
+  <message>Starting ProtocolHandler ["http-nio-9091"]</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:22.989362949Z</date>
+  <millis>1637676142989</millis>
+  <nanos>362949</nanos>
+  <sequence>185</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>260</thread>
+  <message>Initializing Spring DispatcherServlet 'dispatcherServlet'</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:22.996467596Z</date>
+  <millis>1637676142996</millis>
+  <nanos>467596</nanos>
+  <sequence>186</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>260</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:23.823231289Z</date>
+  <millis>1637676143823</millis>
+  <nanos>231289</nanos>
+  <sequence>187</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>260</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:24.631955744Z</date>
+  <millis>1637676144631</millis>
+  <nanos>955744</nanos>
+  <sequence>188</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>260</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:25.435301311Z</date>
+  <millis>1637676145435</millis>
+  <nanos>301311</nanos>
+  <sequence>189</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>260</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:26.240876266Z</date>
+  <millis>1637676146240</millis>
+  <nanos>876266</nanos>
+  <sequence>190</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>260</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:27.036296672Z</date>
+  <millis>1637676147036</millis>
+  <nanos>296672</nanos>
+  <sequence>191</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>260</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:27.823440877Z</date>
+  <millis>1637676147823</millis>
+  <nanos>440877</nanos>
+  <sequence>192</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>260</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:48.764968580Z</date>
+  <millis>1637676168764</millis>
+  <nanos>968580</nanos>
+  <sequence>193</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>268</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:49.561333214Z</date>
+  <millis>1637676169561</millis>
+  <nanos>333214</nanos>
+  <sequence>194</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>268</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:50.366436903Z</date>
+  <millis>1637676170366</millis>
+  <nanos>436903</nanos>
+  <sequence>195</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>268</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:51.187381468Z</date>
+  <millis>1637676171187</millis>
+  <nanos>381468</nanos>
+  <sequence>196</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>268</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:51.983307344Z</date>
+  <millis>1637676171983</millis>
+  <nanos>307344</nanos>
+  <sequence>197</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>268</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:52.795928972Z</date>
+  <millis>1637676172795</millis>
+  <nanos>928972</nanos>
+  <sequence>198</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>268</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:02:53.581142500Z</date>
+  <millis>1637676173581</millis>
+  <nanos>142500</nanos>
+  <sequence>199</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>268</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:31:16.268451489Z</date>
+  <millis>1637677876268</millis>
+  <nanos>451489</nanos>
+  <sequence>200</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>277</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:31:17.048018408Z</date>
+  <millis>1637677877048</millis>
+  <nanos>18408</nanos>
+  <sequence>201</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>277</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:31:17.827496585Z</date>
+  <millis>1637677877827</millis>
+  <nanos>496585</nanos>
+  <sequence>202</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>277</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:31:18.650286764Z</date>
+  <millis>1637677878650</millis>
+  <nanos>286764</nanos>
+  <sequence>203</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>277</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:31:19.447671621Z</date>
+  <millis>1637677879447</millis>
+  <nanos>671621</nanos>
+  <sequence>204</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>277</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:31:20.236618052Z</date>
+  <millis>1637677880236</millis>
+  <nanos>618052</nanos>
+  <sequence>205</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>277</thread>
+  <message>rpssize: 91</message>
+</record>
+<record>
+  <date>2021-11-23T14:31:21.014554755Z</date>
+  <millis>1637677881014</millis>
+  <nanos>554755</nanos>
+  <sequence>206</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.algorithm.multiobjective.nsgaiii.NSGAIII</class>
+  <method>&lt;init&gt;</method>
+  <thread>277</thread>
+  <message>rpssize: 91</message>
+</record>
