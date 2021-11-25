@@ -1,14 +1,17 @@
 package br.otimizes.tomicroservices.uc.executarExperimento;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.multipart.MultipartFile;
 import org.uma.jmetal.util.pseudorandom.PseudoRandomGenerator;
 import org.uma.jmetal.util.pseudorandom.impl.JavaRandomGenerator;
 
@@ -16,75 +19,73 @@ import br.pucrio.inf.les.opus.tomicroservices.analysis.ast.ClassNamePattern;
 import br.pucrio.inf.les.opus.tomicroservices.analysis.ast.ReadDependencyFinderFile;
 import br.pucrio.inf.les.opus.tomicroservices.analysis.dynamic.DynamicLogAnalyzer;
 import br.pucrio.inf.les.opus.tomicroservices.graph.Graph;
-import br.pucrio.inf.les.opus.tomicroservices.metrics.ConvertValue;
 import br.pucrio.inf.les.opus.tomicroservices.metrics.MetricPerMicroserviceArchitecture;
-import br.pucrio.inf.les.opus.tomicroservices.metrics.Minimize;
-import br.pucrio.inf.les.opus.tomicroservices.metrics.overhead.CohesionPerMicroserviceArchitecture;
-import br.pucrio.inf.les.opus.tomicroservices.metrics.overhead.CouplingPerMicroserviceArchitecture;
-import br.pucrio.inf.les.opus.tomicroservices.metrics.overhead.FunctionalityPerMicroserviceArchitecture;
 import br.pucrio.inf.les.opus.tomicroservices.optimization.algorithm.nsgaIII.toMicroservices.NSGAIIIRunner;
 
 @RestController
 @RequestMapping("/api/experimentos")
-public class GerenciadorExecutarExperimento {
+public class GerenciadorExecutarExperimento {	
+	private StorageService storageService = new StorageService(); 
+	
+	@PostMapping("/upload/features-file")
+	public String handleUploadFeatureFile(@RequestParam("file") MultipartFile file) {
+		return storageService.save(file);
+	}
+	
+	@PostMapping("/upload/dynamic-log-file")
+	public String handleUploadLogFile(@RequestParam("file") MultipartFile file) {
+		return storageService.save(file);
+	}
 
 	@PostMapping
-	public String executar(@RequestBody ExperimentRequest request) {
+	public List<List<String>> executar(@RequestBody ExperimentRequest request) {
 		System.out.println(request);
 		
-		String acceptList = "/home/arthur/Documents/doutorado/tomsc/accept.list";
-		String rejectList = "/home/arthur/Documents/doutorado/tomsc/reject.list";
-		String dependency = "/home/arthur/Documents/doutorado/tomsc/csbaseDependency";
-		String logDynamic = "/home/arthur/Documents/doutorado/tomsc/log";
-		String featuresGeneral = "/home/arthur/Documents/doutorado/tomsc/feature";
-
-		File accepListFile = new File(acceptList);
-		File rejectListFile = new File(rejectList);
-		File staticFile = new File(dependency);
-		File logDynamicFile = new File(logDynamic);
-		File featuresGeneralFile = new File(featuresGeneral);
-		ClassNamePattern pattern = new ClassNamePattern(accepListFile, true);
+		File acceptListFile = storageService.getUploadedFile(request.getAcceptListFileId());
+		File rejectListFile = storageService.getUploadedFile(request.getRejectListFileId());
+		File staticLogFile = storageService.getUploadedFile(request.getStaticLogFileId());
+		File dynamicLogFile = storageService.getUploadedFile(request.getDynamicLogFileId());
+		File featuresFile = storageService.getUploadedFile(request.getFeaturesFileId());
+		
+		ClassNamePattern pattern = new ClassNamePattern(acceptListFile, true);
 		ClassNamePattern reject = new ClassNamePattern(rejectListFile, false);
+		
 		Graph graph = new Graph();
 		ReadDependencyFinderFile dependencyFinder = new ReadDependencyFinderFile();
-		dependencyFinder.insertInGraphFromFile(staticFile, graph, pattern, reject);
+		dependencyFinder.insertInGraphFromFile(staticLogFile, graph, pattern, reject);
+		
 		DynamicLogAnalyzer dynamic = new DynamicLogAnalyzer();
-		dynamic.analyze(logDynamicFile, graph, featuresGeneralFile);
+		dynamic.analyze(dynamicLogFile, graph, featuresFile);
 
-		List<MetricPerMicroserviceArchitecture> metrics;
-		metrics = new ArrayList<MetricPerMicroserviceArchitecture>();
-		ConvertValue minimize = new Minimize();
-
-		// metrics.add(new OverheadMaxPerMicroserviceArchitecture());
-		metrics.add(new FunctionalityPerMicroserviceArchitecture(minimize));
-		// metrics.add(new ReusePerMicroserviceArchitecture("start", 1, minimize));
-
-		metrics.add(new CouplingPerMicroserviceArchitecture());
-		metrics.add(new CohesionPerMicroserviceArchitecture(minimize));
-		// metrics.add(new SizePerMicroserviceArchitecture());
+		List<MetricPerMicroserviceArchitecture> metrics = new ArrayList<MetricPerMicroserviceArchitecture>();
+		for (MetricDTO metricDTO:  request.getMetrics()) {
+			metrics.add(MetricFactory.newInstance(metricDTO));
+		}
+		
 		PseudoRandomGenerator random = new JavaRandomGenerator();
-
 		NSGAIIIRunner runner = new NSGAIIIRunner();
 
-		// br.pucrio.inf.les.opus.tomicroservices.optimization.NSGAIIRunner runner
-		// = new br.pucrio.inf.les.opus.tomicroservices.optimization.NSGAIIRunner();
-		List<MetricPerMicroserviceArchitecture> otherMetrics = new ArrayList<MetricPerMicroserviceArchitecture>();
-		// otherMetrics.add(new OverheadMaxPerMicroserviceArchitecture());
-		// otherMetrics.add(new FunctionalityPerMicroserviceArchitecture(minimize));
-		// otherMetrics.add(new ReusePerMicroserviceArchitecture("start", 1, minimize));
-
-		metrics.addAll(otherMetrics);
-		final int executions = 7;
-		for (int i = 0; i < executions; ++i) {
-			File file = new File("/home/arthur/Documents/doutorado/tomsc/result" + i);
-
-			runner._execute(graph, metrics, request.getNumberOfMicroservices(), random, file);
-
-			// runner.execute(graph, metrics,
-			// numberOfMicroservices,
-			// random, file, otherMetrics);
+		List<List<String>> resultado = new ArrayList<>();
+		for (int i = 0; i < request.getExecutions(); ++i) {
+			File file = new File(System.getProperty("user.home") + "/tomsc/results/result" + i);
+			runner._execute(graph, metrics, request.getNumberOfMicroservices(), request.getCrossoverProbability(), request.getCrossoverFraction(), random, file);			
+			generateExecutionResult(resultado, file);			
 		}
-		return "Opa! :D";
+		return resultado;
+	}
+
+	private void generateExecutionResult(List<List<String>> resultado, File file) {
+		try {
+			List<String> lines = new ArrayList<>();
+			Scanner s = new Scanner(file);
+			StringBuffer sb = new StringBuffer();						
+			while (s.hasNextLine()) {
+				lines.add(s.nextLine());
+			}
+			resultado.add(lines);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
 	}
 
 }
