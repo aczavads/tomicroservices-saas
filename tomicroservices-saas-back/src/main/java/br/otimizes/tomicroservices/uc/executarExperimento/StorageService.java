@@ -10,11 +10,6 @@ import java.util.UUID;
 import org.springframework.web.multipart.MultipartFile;
 
 public class StorageService {
-	private String acceptList = "/home/arthur/Documents/doutorado/tomsc/accept.list";
-	private String rejectList = "/home/arthur/Documents/doutorado/tomsc/reject.list";
-	private String staticLog = "/home/arthur/Documents/doutorado/tomsc/csbaseDependency";
-	private String dynamicLog = "/home/arthur/Documents/doutorado/tomsc/log";
-	private String features = "/home/arthur/Documents/doutorado/tomsc/feature";
 	private String baseDir =  System.getProperty("user.home") + "/tomsc";
 	private String uploadedDir = baseDir + "/tomicroservices-saas-uploaded";
 	private String generatedDir = baseDir + "/tomicroservices-saas-generated";

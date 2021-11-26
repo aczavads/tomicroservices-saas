@@ -1,19 +1,15 @@
 package br.otimizes.tomicroservices.uc.executarExperimento;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
+import lombok.Data;
 import lombok.ToString;
 
-@Getter
-@AllArgsConstructor
-@NoArgsConstructor
+@Data
 @ToString(includeFieldNames = true)
 public class ExperimentRequest {
 	private int numberOfMicroservices;
 	private int executions;
 	private String[] metricNames;
-	private MetricDTO[] metrics;	
+	private MetricDTO[] metrics = new MetricDTO[]{};	
 	private double crossoverProbability; 
 	private double crossoverFraction;
 	private String logFileId;

@@ -18,6 +18,11 @@ const Menu = () => {
               </LinkContainer>
             </li>
             <li>
+              <LinkContainer to='/executar-experimento'>
+                <Nav.Link className='nav-link px-2 link-secondary'>Executar Experimento</Nav.Link>
+              </LinkContainer>
+            </li>
+            <li>
               <LinkContainer to='/login'>
                 <Nav.Link className='nav-link px-2 link-secondary'>Login</Nav.Link>
               </LinkContainer>
