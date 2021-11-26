@@ -9,6 +9,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import NotFound from './pages/NotFound'
 import Login from './pages/Login'
+import ExecutarExperimento from './pages/executar-experimento/ExecutarExperimento'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Container>
         <Switch>
           <Route path='/' component={Home} exact />
+          <Route path='/executar-experimento' component={ExecutarExperimento} />
           <Route path='/login' component={Login} />
           <Route path='/about' component={About} />
           <Route component={NotFound} />
