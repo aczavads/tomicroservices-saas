@@ -206,7 +206,7 @@ const RenderResults = (props) => {
             <div className="accordion-item" key={index}>
                 <h2 className="accordion-header" id={`heading${index}`}>
                     <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target={`#collapse${index}`} aria-expanded="true" aria-controls={`collapse${index}`}>
-                        {`Execução ${index}`}
+                        {`Execução ${index+1}`}
                     </button>
                 </h2>
                 <div id={`collapse${index}`} className="accordion-collapse collapse show" aria-labelledby={`heading${index}`} data-bs-parent="#accordionExample">
