@@ -3,8 +3,8 @@ import Meta from '../components/Meta'
 
 const About = () => {
   // page content
-  const pageTitle = 'About'
-  const pageDescription = 'welcome to react bootstrap template'
+  const pageTitle = 'Sobre'
+  const pageDescription = 'Bem vindo à toMicroservices SAAS'
 
   return (
     <div>
