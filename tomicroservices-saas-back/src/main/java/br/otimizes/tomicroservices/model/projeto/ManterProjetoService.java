@@ -1,19 +1,18 @@
 package br.otimizes.tomicroservices.model.projeto;
 
-import br.otimizes.tomicroservices.model.usuário.Usuario;
+import static org.hibernate.search.jpa.Search.getFullTextEntityManager;
+
+import java.util.List;
+import java.util.Optional;
+
+import javax.persistence.EntityManager;
+
 import org.apache.lucene.search.Query;
-import org.hibernate.search.Search;
 import org.hibernate.search.jpa.FullTextEntityManager;
 import org.hibernate.search.jpa.FullTextQuery;
 import org.hibernate.search.query.dsl.QueryBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import javax.persistence.EntityManager;
-import java.util.List;
-import java.util.Optional;
-
-import static org.hibernate.search.jpa.Search.getFullTextEntityManager;
 
 @Service
 public class ManterProjetoService {
