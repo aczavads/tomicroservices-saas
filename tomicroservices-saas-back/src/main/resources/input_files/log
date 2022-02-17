@@ -1,10 +1,10 @@
-SF:SF:#ManterAluno<teste.gerado.ManterAluno>#ManterProfessor<teste.gerado.ManterProfessor>
+SF:SF:#ManterAluno<teste.gerado.ManterAluno.executar>
 Class:teste.gerado.ManterAluno#Method:executar#SizeOf:30#Deep:1#Thread:main
 Class:teste.gerado.ManterAluno1#Method:executar1#SizeOf:30#Deep:2#Thread:main
 Class:teste.gerado.ManterAluno2#Method:executar2#SizeOf:30#Deep:3#Thread:main
 Class:teste.gerado.ManterAluno3#Method:executar3#SizeOf:30#Deep:4#Thread:main
 Class:teste.gerado.ManterAluno4#Method:executar4#SizeOf:30#Deep:5#Thread:main
-SF:SF:#ManterAluno<teste.gerado.ManterAluno>#ManterProfessor<teste.gerado.ManterProfessor>
+SF:SF:#ManterProfessor<teste.gerado.ManterProfessor.executar>
 Class:teste.gerado.ManterProfessor#Method:executar#SizeOf:30#Deep:1#Thread:main
 Class:teste.gerado.ManterProfessor1#Method:executar1#SizeOf:30#Deep:2#Thread:main
 Class:teste.gerado.ManterProfessor2#Method:executar2#SizeOf:30#Deep:3#Thread:main
